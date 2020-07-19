@@ -1,5 +1,5 @@
 ### Hi all 👋
-### I'm Jaeyeong, an Android Developer
+### I'm Jaeyeong, Android Developer
 <!--
 **jaeyeong951/jaeyeong951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
