@@ -6,7 +6,7 @@
 
 ### 사용자가 기분좋게 사용할 수 있는 서비스를 만들고 싶습니다.
 
-[![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=#25292E)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jaeyeong951/jaeyeong951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
