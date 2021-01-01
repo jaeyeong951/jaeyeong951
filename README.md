@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyeong951&count_bg=%2350586C&title_bg=%2350586C&icon=&icon_color=%23FFF1B5&title=Jaeyeong&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+[![Resume Badge](http://img.shields.io/badge/-Resume-303437?style=flat&logo=notion&link=https://www.notion.so/pnujaeyeong/Android-Developer-79d4c17f50c34a3091f46152fa7e5f4b)](https://www.notion.so/pnujaeyeong/Android-Developer-79d4c17f50c34a3091f46152fa7e5f4b)
+	
+[![Resume Badge](http://img.shields.io/badge/-Medium%20Blog-50586C?style=flat&logo=medium&link=https://www.notion.so/pnujaeyeong/Android-Developer-79d4c17f50c34a3091f46152fa7e5f4b)](https://www.notion.so/pnujaeyeong/Android-Developer-79d4c17f50c34a3091f46152fa7e5f4b)
