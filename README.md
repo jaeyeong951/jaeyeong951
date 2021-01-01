@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyeong951&count_bg=%2350586C&title_bg=%2350586C&icon=&icon_color=%23FFF1B5&title=Jaeyeong&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
