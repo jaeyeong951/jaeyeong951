@@ -2,9 +2,7 @@
 
 ### 반갑습니다.👋 주니어 백엔드 개발자 김재영입니다.
 
-### 유려한 UI/UX와 애니메이션을 구현하고 사용하는 것을 좋아합니다.
-
-### 기분좋게 사용할 수 있는 서비스를 만들고 싶습니다.
+### 사용자가 기분좋게 사용할 수 있는 서비스를 만들고 싶습니다.
 
 [![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=171B21)](https://github.com/anuraghazra/github-readme-stats)     
 
