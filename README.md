@@ -1,11 +1,16 @@
 # 김재영 | Developer
 
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaeyeong951&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) -->
+
 ### 반갑습니다.👋 주니어 백엔드 개발자 김재영입니다.
 
 ### 누구나 기분 좋게 사용할 수 있는 서비스,
 ### 모두가 애정할 수 있는 서비스를 만들고 싶습니다.
 
-[![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=171B21)](https://github.com/anuraghazra/github-readme-stats)     
+[![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=171B21)](https://github.com/anuraghazra/github-readme-stats)    
+
+## 💻 Interested In <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,aws,mysql,postgres,redis,docker,androidstudio&theme=dark)](https://skillicons.dev)
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,12 +21,13 @@
 - [색인&lpar;index&rpar;의 두 가지 형태 : LSM 트리 &amp; B 트리](https://jaeyeong951.medium.com/%EC%83%89%EC%9D%B8-index-%EC%9D%98-%EB%91%90-%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C-lsm-%ED%8A%B8%EB%A6%AC-b-%ED%8A%B8%EB%A6%AC-7a4ab7887db5?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Jaeyeong's Medium Blog Posts](https://github-readme-medium.vercel.app/?username=jaeyeong951&limit=3)](https://medium.com/@jaeyeong951)
-
 
 ## 📞 Contacts
 
 [![Resume Badge](http://img.shields.io/badge/-Resume-303437?style=flat&logo=notion&link=https://www.notion.so/pnujaeyeong/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)](https://pnujaeyeong.notion.site/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)	
 [![Blog Badge](http://img.shields.io/badge/-Medium%20Blog-50586C?style=flat&logo=medium&link=https://medium.com/@jaeyeong951)](https://medium.com/@jaeyeong951)
 [![Gmail Badge](http://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&link=mailto:jaeyeong951@gmail.com)](mailto:jaeyeong951@gmail.com)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
