@@ -7,6 +7,10 @@
 
 [![Jaeyeong's github stats](https://github-readme-stats.vercel.app/api?username=jaeyeong951&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=171B21)](https://github.com/anuraghazra/github-readme-stats)     
 
+# Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📞 Contacts
 
 [![Resume Badge](http://img.shields.io/badge/-Resume-303437?style=flat&logo=notion&link=https://www.notion.so/pnujaeyeong/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)](https://pnujaeyeong.notion.site/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)	
