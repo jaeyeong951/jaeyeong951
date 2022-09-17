@@ -22,11 +22,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## 📞 Contacts
 
-[![Resume Badge](http://img.shields.io/badge/-Resume-303437?style=flat&logo=notion&link=https://www.notion.so/pnujaeyeong/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)](https://pnujaeyeong.notion.site/Software-Engineer-58796e4b6ee040a0be8d735391bc4b91)	
-[![Blog Badge](http://img.shields.io/badge/-Medium%20Blog-50586C?style=flat&logo=medium&link=https://medium.com/@jaeyeong951)](https://medium.com/@jaeyeong951)
-[![Gmail Badge](http://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&link=mailto:jaeyeong951@gmail.com)](mailto:jaeyeong951@gmail.com)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
