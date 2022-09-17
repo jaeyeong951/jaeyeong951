@@ -22,7 +22,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+## 📞 Contacts
 
+[![Blog Badge](http://img.shields.io/badge/-Medium%20Blog-50586C?style=flat&logo=medium&link=https://medium.com/@jaeyeong951)](https://medium.com/@jaeyeong951)
+[![Gmail Badge](http://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&link=mailto:jaeyeong951@gmail.com)](mailto:jaeyeong951@gmail.com)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
