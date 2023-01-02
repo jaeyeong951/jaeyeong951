@@ -14,11 +14,11 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Kotlin] 1.8.0 업데이트 요약](https://jaeyeong951.medium.com/kotlin-1-8-0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9A%94%EC%95%BD-1919cbba4d14?source=rss-c340bcb9bd23------2)
 - [Kotlin In-N-Out : Variance 변성](https://jaeyeong951.medium.com/kotlin-in-n-out-variance-%EB%B3%80%EC%84%B1-69204cbf27a1?source=rss-c340bcb9bd23------2)
 - [트랜잭션과 격리 수준](https://jaeyeong951.medium.com/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-85e490f02229?source=rss-c340bcb9bd23------2)
 - [Exception 에 대한 고찰](https://jaeyeong951.medium.com/exception-%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-5ae31e34abba?source=rss-c340bcb9bd23------2)
 - [[Kotlin] generic 타입 &amp; reified](https://jaeyeong951.medium.com/kotlin-generic-%ED%83%80%EC%9E%85-reified-1726e9a23d40?source=rss-c340bcb9bd23------2)
-- [객체지향 바르게 이해하기 -  클래스 &amp; 인터페이스](https://jaeyeong951.medium.com/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A3%E1%86%BC-%E1%84%87%E1%85%A1%E1%84%85%E1%85%B3%E1%84%80%E1%85%A6-%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5-%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3-8ccb20bd2c34?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
