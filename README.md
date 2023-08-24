@@ -14,11 +14,11 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ElasticSearch] match, term 쿼리 제대로 이해하기](https://jaeyeong951.medium.com/elasticsearch-match-term-%EC%BF%BC%EB%A6%AC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-b8cdb53c7475?source=rss-c340bcb9bd23------2)
 - [Java 클로저 vs Kotlin 클로저](https://jaeyeong951.medium.com/java-%ED%81%B4%EB%A1%9C%EC%A0%80-vs-kotlin-%ED%81%B4%EB%A1%9C%EC%A0%80-c6c12da97f94?source=rss-c340bcb9bd23------2)
 - [코루틴 내부로 Tracing Context 공유하기](https://jaeyeong951.medium.com/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EB%82%B4%EB%B6%80-tracing-context-%EA%B3%B5%EC%9C%A0-afc2f4bd422c?source=rss-c340bcb9bd23------2)
 - [코틀린 컨퍼런스 23 키노트 정리 &lpar;KotlinConf’23&rpar;](https://jaeyeong951.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-23-%ED%82%A4%EB%85%B8%ED%8A%B8-%EC%A0%95%EB%A6%AC-kotlinconf23-531a930644bf?source=rss-c340bcb9bd23------2)
 - [[Kotlin] inline class](https://jaeyeong951.medium.com/kotlin-inline-class-10db9cbd169d?source=rss-c340bcb9bd23------2)
-- [Java finalize&lpar;&rpar; 은퇴식](https://jaeyeong951.medium.com/finalize-%EC%9D%80%ED%87%B4%EC%8B%9D-4a52fb855910?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
