@@ -2,7 +2,7 @@
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaeyeong951&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) -->
 
-### 반갑습니다.👋 주니어 백엔드 개발자 김재영입니다.
+### 반갑습니다.👋 백엔드 개발자 김재영입니다.
 
 ### 누구나 기분 좋게 사용할 수 있는 서비스,
 ### 모두가 애정할 수 있는 서비스를 만들고 싶습니다.
