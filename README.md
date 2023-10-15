@@ -1,4 +1,4 @@
-# 김재영 | Junior Software Engineer
+# 김재영 | Software Engineer
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaeyeong951&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) -->
 
