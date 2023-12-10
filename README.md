@@ -14,11 +14,11 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Kotlin] 코루틴이 Deadlock을 유발하는 경우](https://jaeyeong951.medium.com/kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%B4-deadlock%EC%9D%84-%EC%9C%A0%EB%B0%9C%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0-49403160e7a4?source=rss-c340bcb9bd23------2)
 - [virtual thread + synchronized = X](https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1?source=rss-c340bcb9bd23------2)
 - [Structured Concurrency 이해하기](https://jaeyeong951.medium.com/structured-concurrency-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-392cc45d01df?source=rss-c340bcb9bd23------2)
 - [[ElasticSearch] match, term 쿼리 제대로 이해하기](https://jaeyeong951.medium.com/elasticsearch-match-term-%EC%BF%BC%EB%A6%AC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-b8cdb53c7475?source=rss-c340bcb9bd23------2)
 - [Java 클로저 vs Kotlin 클로저](https://jaeyeong951.medium.com/java-%ED%81%B4%EB%A1%9C%EC%A0%80-vs-kotlin-%ED%81%B4%EB%A1%9C%EC%A0%80-c6c12da97f94?source=rss-c340bcb9bd23------2)
-- [코루틴 내부로 Tracing Context 공유하기](https://jaeyeong951.medium.com/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EB%82%B4%EB%B6%80-tracing-context-%EA%B3%B5%EC%9C%A0-afc2f4bd422c?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
