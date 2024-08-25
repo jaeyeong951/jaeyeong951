@@ -23,7 +23,7 @@
 
 
 ## 📞 Contacts
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0B66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/jaeyeongkim)](https://www.linkedin.com/in/jaeyeongkim)
 [![Blog Badge](http://img.shields.io/badge/-Medium%20Blog-50586C?style=flat&logo=medium&link=https://medium.com/@jaeyeong951)](https://medium.com/@jaeyeong951)
 [![Gmail Badge](http://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&link=mailto:jaeyeong951@gmail.com)](mailto:jaeyeong951@gmail.com)
 
