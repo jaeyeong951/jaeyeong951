@@ -14,11 +14,11 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
 - [어떤 개발자의 3년치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c?source=rss-c340bcb9bd23------2)
 - [Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6?source=rss-c340bcb9bd23------2)
 - [[Kotlin] Fake Constructor](https://jaeyeong951.medium.com/fake-contructor-7aef39f98a25?source=rss-c340bcb9bd23------2)
 - [[Kotlin] 코루틴이 Deadlock을 유발하는 경우](https://jaeyeong951.medium.com/kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%B4-deadlock%EC%9D%84-%EC%9C%A0%EB%B0%9C%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0-49403160e7a4?source=rss-c340bcb9bd23------2)
-- [virtual thread + synchronized = X](https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
