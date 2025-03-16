@@ -14,11 +14,11 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch 는 어떻게 위치 검색도 빠를까-2](https://jaeyeong951.medium.com/elasticsearch-%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EC%B9%98-%EA%B2%80%EC%83%89%EB%8F%84-%EB%B9%A0%EB%A5%BC%EA%B9%8C-2-54e47ab9de9d?source=rss-c340bcb9bd23------2)
 - [[Kotlin] 돌려줘요 static](https://jaeyeong951.medium.com/kotlin-%EB%8F%8C%EB%A0%A4%EC%A4%98%EC%9A%94-static-866f31091466?source=rss-c340bcb9bd23------2)
 - [Elasticsearch 는 어떻게 위치 검색도 빠를까](https://jaeyeong951.medium.com/elasticsearch-%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EC%B9%98-%EA%B2%80%EC%83%89%EB%8F%84-%EB%B9%A0%EB%A5%BC%EA%B9%8C-ab145baab9a7?source=rss-c340bcb9bd23------2)
 - [저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
 - [어떤 개발자의 3년치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c?source=rss-c340bcb9bd23------2)
-- [Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6?source=rss-c340bcb9bd23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
